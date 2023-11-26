@@ -108,17 +108,7 @@
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
-		
-	//	 {
-      "key": "玉米",
-      "name": "🅱️┃玉米2K┃秒播",
-      "type": 0,
-      "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-      "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+	
 	
 	 {
       "key": "zxzj",
